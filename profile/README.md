@@ -84,7 +84,7 @@ Start the issue title with the project name — e.g. `[Platform] Add team-based 
       <a href="https://github.com/bohmiiidd">GitHub</a>
     </td>
     <td align="center" width="170">
-      <a href="https://github.com/oussamahleli"><img src="https://github.com/oussamahleli.png" width="90" alt="Oussama Hleli"/></a><br/>
+      <a href="https://github.com/OussemaHleli"><img src="https://github.com/OussemaHleli.png" width="90" alt="Oussama Hleli"/></a><br/>
       <b>Oussama Hleli</b><br/>
       <a href="https://github.com/oussamahleli">GitHub</a>
     </td>
